@@ -1,0 +1,5 @@
+__pycache__
+*.log
+.ipynb_checkpoints/
+Tennis_Windows_x86_64
+Soccer.ipynb
