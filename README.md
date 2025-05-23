@@ -1,6 +1,3 @@
-# Udacity Deep Reinforcement Learning Nano Degree - Tennis
-This is the submission for the tennis project in Udacity Deep Reinforcement Learning Nano Degree.
-
 # The Environment
 ![](Resource/tennis.gif)
 
